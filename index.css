@@ -120,6 +120,7 @@
         border: solid 1px rgb(199, 194, 194);
         border-radius: 1.25rem;
         background-color: var(--clr-background-white);
+        color: black;
   
         @media (min-width: 879px) {
           padding: 0.31rem .625rem;
